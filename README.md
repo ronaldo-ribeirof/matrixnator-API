@@ -1,7 +1,5 @@
 # Matrixnator: A Simple Java Matrix Printing API
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A lightweight and clean Java library for elegantly printing formatted matrices to the console. The goal of **Matrixnator** is to provide a reusable and DRY (Don't Repeat Yourself) API for visualizing two-dimensional data structures in a clear way, aiding in application development and debugging.
 
 This project was created as part of my Java studies and personal growth as a developer.
