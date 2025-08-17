@@ -6,14 +6,14 @@ This project was created as part of my Java studies and personal growth as a dev
 
 ---
 
-### Features 🚀
+### Highlights 🚀
 
 -   **Matrix Printing:** Native support for `float`, `double`, and `int` matrices.
 -   **Centered Alignment:** All values are automatically centered within their cells for a professional aesthetic.
 -   **Grid Structure:** Uses Unicode characters to draw borders and grids, providing a clear visual representation of the matrix structure.
 -   **Simple API:** The API interface is intuitive and straightforward, consisting of static methods that require no instantiation.
 -   **Robust Error Handling:** Handles null or empty matrices gracefully, preventing `NullPointerException` and providing informative messages.
-
+-   **Method:** this project was made with the help of Gemini 2.5 Flash, so it could help me on my Java studies!
 ---
 
 ### How to Use the API 🧑‍💻
