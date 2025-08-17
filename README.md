@@ -1,26 +1,30 @@
 # Matrixnator: A Simple Java Matrix Printing API
 
-Uma biblioteca Java simples e leve para imprimir matrizes de forma elegante e formatada no console. O objetivo do **Matrixnator** é fornecer uma API reutilizável e DRY (Don't Repeat Yourself) para visualizar dados de matrizes de forma clara, ajudando no desenvolvimento e depuração de aplicações que lidam com estruturas de dados bidimensionais.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A lightweight and clean Java library for elegantly printing formatted matrices to the console. The goal of **Matrixnator** is to provide a reusable and DRY (Don't Repeat Yourself) API for visualizing two-dimensional data structures in a clear way, aiding in application development and debugging.
+
+This project was created as part of my Java studies and personal growth as a developer.
 
 ---
 
-### Funcionalidades 🚀
+### Features 🚀
 
--   **Impressão de Matrizes:** Suporte nativo para matrizes de `float`, `double` e `int`.
--   **Alinhamento Centralizado:** Todos os valores são automaticamente centralizados em suas respectivas células para uma estética profissional.
--   **Estrutura de Grade:** Utiliza caracteres Unicode para desenhar bordas e grades, fornecendo uma representação visual clara da estrutura da matriz.
--   **API Simples:** A interface da API é intuitiva e direta, consistindo em métodos estáticos que não exigem instâncias.
--   **Tratamento de Exceções:** Lida de forma robusta com matrizes nulas ou vazias, evitando `NullPointerException` e fornecendo mensagens informativas.
+-   **Matrix Printing:** Native support for `float`, `double`, and `int` matrices.
+-   **Centered Alignment:** All values are automatically centered within their cells for a professional aesthetic.
+-   **Grid Structure:** Uses Unicode characters to draw borders and grids, providing a clear visual representation of the matrix structure.
+-   **Simple API:** The API interface is intuitive and straightforward, consisting of static methods that require no instantiation.
+-   **Robust Error Handling:** Handles null or empty matrices gracefully, preventing `NullPointerException` and providing informative messages.
 
 ---
 
-### Como Usar a API 🧑‍💻
+### How to Use the API 🧑‍💻
 
-Para usar o `Matrixnator` em seu projeto, basta incluir o arquivo JAR da biblioteca como uma dependência ou copiar a classe `Matrixnator.java` diretamente em seu projeto.
+To use the `Matrixnator` in your project, simply include the library's JAR file as a dependency or copy the `Matrixnator.java` class directly into your project.
 
-#### Adicionando como Dependência (Maven)
+#### Adding as a Dependency (Maven)
 
-Se você estiver usando Maven, adicione a seguinte dependência ao seu arquivo `pom.xml`:
+If you are using Maven, add the following dependency to your `pom.xml` file:
 
 ```xml
 <dependency>
